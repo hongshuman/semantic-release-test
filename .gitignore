@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+#
+node_modules
+build
+.h8n
+#
+# package-lock.json
+# 
+.env
